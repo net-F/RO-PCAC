@@ -48,4 +48,5 @@ python rendering_test.py
 ## 5. 注意事项
 - 需要可用的 GPU/CUDA 环境（脚本优先使用 CUDA）。
 - 需要项目内可执行文件 `pc_error_d`（用于 `p2p` 指标时）。
-- 需要保证 `ckpts_new/sptrans_hyper2_comai_p2p_imgmse111/...` 权重文件存在。
+- 需要保证 `ckpts_new/sptrans_hyper2_comai_p2p_imgmse111/...` 权重文件存在。下载链接：通过网盘分享的文件：
+链接: https://pan.baidu.com/s/1B85azzIVBftUhkOBv4Pbqg?pwd=4v5q 提取码: 4v5q 复制这段内容后打开百度网盘手机App，操作更方便哦
