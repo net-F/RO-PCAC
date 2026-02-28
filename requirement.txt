@@ -15,9 +15,6 @@ compressai @ file:///home/hx/HX/compressai
 ConfigArgParse==1.7
 contourpy==1.2.1
 cuda_sparse_ops_hx @ file:///home/hx/HX/FastPointTransformer-master/src/cuda_ops_hx
-cuda_sparse_ops_interup @ file:///home/hx/HX/FastPointTransformer-master/src/cuda_ops_interup
-cuda_sparse_ops_interupv2 @ file:///home/hx/HX/FastPointTransformer-master/src/cuda_ops_interupv2
-cuda_sparse_ops_ptv2 @ file:///home/hx/HX/FastPointTransformer-master/src/Num1/cuda_ops_ptv2
 cuda_sparse_ops_test @ file:///home/hx/HX/FastPointTransformer-master/src/cuda_ops_test
 cycler==0.12.1
 dash==2.18.2
